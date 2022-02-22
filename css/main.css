@@ -1,0 +1,109 @@
+@font-face {
+    font-family: Avenir;
+    src: url("../assets/fonts/Avenir.ttc");
+}
+@font-face {
+    font-family: LatoRegular;
+    src: url("../assets/fonts/Lato-Regular.ttf");
+}
+@font-face {
+    font-family: LatoBold;
+    src: url("../assets/fonts/Lato-Bold.ttf");
+}
+@font-face {
+    font-family: LatoMedium;
+    src: url("../assets/fonts/Lato-Medium.ttf");
+}
+
+.rectangle {
+    height: auto;
+
+    padding: 53px 203px 136px 200px;
+    background-color: #f0f1fb;
+}
+.title-column {
+    font-family: LatoBold;
+    font-size: 3.2rem;
+    line-height: 60px;
+    margin-bottom: 10px;
+}
+.titlecards{
+    font-family: LatoBold;
+    font-size: 2.5rem;
+    line-height: 60px;
+    margin-bottom: 10px;
+}
+.card-avvillas {
+    border-radius: 12px;
+    border-radius: 12px;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.23);
+    background-color: #fff;
+    margin-top: 20px;
+    margin-bottom: 58px;
+
+
+}
+.headtitle {
+    font-size: 1rem;
+    color: #5c6b7a;
+    font-family: LatoMedium;
+}
+
+.menu-option-main {
+    font-family: Avenir;
+    color: #e1001d;
+    font-size: 1.3rem;
+    margin: 40px 0px 40px;
+    font-weight: bold;
+}
+.menu-option {
+    font-family: Avenir;
+    color: #5c6b7a;
+    font-size: 1.3rem;
+    margin: 40px 0px 40px;
+    font-weight: bold;
+}
+.titlefooter {
+    font-family: LatoBold;
+    color: #6a81e7;
+    font-size: 4rem;
+    padding:30px;
+}
+.titlefinanciera{
+    font-family: LatoRegular;
+    color: #5c6b7a;
+    font-size: 0.8rem;
+    padding:60px;
+}
+.subtitle {
+    color: #5c6b7a;
+    font-family: LatoRegular;
+    font-size: 1.4rem;
+
+}
+.coming-title {
+    font-family: LatoMedium;
+    font-size: 2rem;
+    text-align: justify-all;
+    letter-spacing:normal ;
+    color: #2c2c33;
+    margin: 20px 0px 20px;
+}
+.h1-title {
+    font-family: LatoBold;
+    font-size: 6rem;
+}
+.description-title {
+    margin: 18px 0 0;
+    font-family: LatoMedium;
+    font-size: 2rem;
+    line-height: 1.2;
+    letter-spacing: normal;
+    color: #2c2c33;
+}
+.legal-footer {
+
+    z-index: 4;
+
+}
+
